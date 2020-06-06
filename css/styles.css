@@ -313,11 +313,6 @@ p {
   text-transform: uppercase;
 }
 
-.advantages-section__border {
-  margin-top: 94px;
-  border-bottom: 1px solid #ececec;
-}
-
 /* Можливості */
 .possibility-section,
 .clients-section,
@@ -484,6 +479,7 @@ p {
 
 .footer--baseline {
   align-items: baseline;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .logo-footer {
@@ -527,10 +523,6 @@ p {
   font-weight: 700;
   line-height: 1.14;
   text-transform: uppercase;
-}
-
-.footer__border {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .footer__copyright {
